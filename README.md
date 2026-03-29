@@ -38,6 +38,8 @@ PORT=4000
 ADMIN_EMAIL=admin@feedpulse.com
 ADMIN_PASSWORD=Admin123!
 ```
+<img width="1920" height="1010" alt="Dashboard" src="https://github.com/user-attachments/assets/216b3121-f85d-4a37-bdc1-7c0e5666c605" />
+
 
 ## Admin Login
 - URL: http://localhost:3000/login
