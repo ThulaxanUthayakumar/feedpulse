@@ -1,0 +1,12 @@
+import { Router } from 'express';
+import { createFeedback, getAllFeedback, getFeedbackById, updateFeedback, deleteFeedback, getSummary, reanalyzeFeedback } from '../controllers/feedback.controller';
+import { requireAuth } from '../middleware/auth';
+const router = Router();
+router.get('/summary', requireAuth, getSummary);
+router.post('/', createFeedback);
+router.get('/', requireAuth, getAllFeedback);
+router.get('/:id', requireAuth, getFeedbackById);
+router.patch('/:id', requireAuth, updateFeedback);
+router.delete('/:id', requireAuth, deleteFeedback);
+router.post('/:id/reanalyze', requireAuth, reanalyzeFeedback);
+export default router;
