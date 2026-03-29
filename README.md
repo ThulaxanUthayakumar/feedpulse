@@ -1,6 +1,10 @@
 # FeedPulse — AI-Powered Product Feedback Platform
 
 FeedPulse lets teams collect product feedback and uses Google Gemini AI to automatically categorise, prioritise, and summarise submissions.
+<img width="1920" height="1013" alt="Signin" src="https://github.com/user-attachments/assets/fbc6e35b-ace4-4504-b4cb-eaca7c101255" />
+<img width="1920" height="1015" alt="Submit Feedback" src="https://github.com/user-attachments/assets/953eb47e-8bdf-4940-b2c5-b9194c4a386d" />
+<img width="1920" height="1020" alt="Feedback Success Message" src="https://github.com/user-attachments/assets/4009deb0-5a09-4d0e-8426-36bd769c2b57" />
+<img width="1920" height="1010" alt="Dashboard" src="https://github.com/user-attachments/assets/216b3121-f85d-4a37-bdc1-7c0e5666c605" />
 
 ## Tech Stack
 - **Frontend:** Next.js 14, React, Tailwind CSS
@@ -38,7 +42,7 @@ PORT=4000
 ADMIN_EMAIL=admin@feedpulse.com
 ADMIN_PASSWORD=Admin123!
 ```
-<img width="1920" height="1010" alt="Dashboard" src="https://github.com/user-attachments/assets/216b3121-f85d-4a37-bdc1-7c0e5666c605" />
+
 
 
 ## Admin Login
