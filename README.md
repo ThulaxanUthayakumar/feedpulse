@@ -44,8 +44,4 @@ ADMIN_PASSWORD=Admin123!
 - Email: admin@feedpulse.com
 - Password: Admin123!
 
-## What I'd Build Next
-- Email notifications when feedback status changes
-- Public roadmap view showing resolved items
-- Bulk actions (resolve multiple items at once)
-- Webhook integration with Slack/Discord
+
